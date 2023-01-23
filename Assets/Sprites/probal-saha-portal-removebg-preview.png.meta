@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: e42863246157c7b4cb11c4a3f553b12a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1749202603664946790
+    second: probal-saha-portal-removebg-preview_0
+  - first:
+      213: 5268639246737189711
+    second: probal-saha-portal-removebg-preview_1
+  - first:
+      213: 1599364409208562705
+    second: probal-saha-portal-removebg-preview_2
+  - first:
+      213: -3830387321678280066
+    second: probal-saha-portal-removebg-preview_3
+  - first:
+      213: 2894447387023456212
+    second: probal-saha-portal-removebg-preview_4
+  - first:
+      213: -2141674170308584732
+    second: probal-saha-portal-removebg-preview_5
+  - first:
+      213: 5277831087168719208
+    second: probal-saha-portal-removebg-preview_6
+  - first:
+      213: 2213438169506271644
+    second: probal-saha-portal-removebg-preview_7
+  - first:
+      213: -840088471631227584
+    second: probal-saha-portal-removebg-preview_8
+  - first:
+      213: -2826977430276676226
+    second: probal-saha-portal-removebg-preview_9
+  - first:
+      213: 3519644149204566476
+    second: probal-saha-portal-removebg-preview_10
+  - first:
+      213: 5525202726771828470
+    second: probal-saha-portal-removebg-preview_11
+  - first:
+      213: -5102038138350957807
+    second: probal-saha-portal-removebg-preview_12
+  - first:
+      213: -5736160987330604823
+    second: probal-saha-portal-removebg-preview_13
+  - first:
+      213: 936638541790803009
+    second: probal-saha-portal-removebg-preview_14
+  - first:
+      213: -6405066735735707769
+    second: probal-saha-portal-removebg-preview_15
+  - first:
+      213: -3471108271119380272
+    second: probal-saha-portal-removebg-preview_16
+  - first:
+      213: 5994563657784767362
+    second: probal-saha-portal-removebg-preview_17
+  - first:
+      213: 7972849571546169060
+    second: probal-saha-portal-removebg-preview_18
+  - first:
+      213: 5569382102196575558
+    second: probal-saha-portal-removebg-preview_19
+  - first:
+      213: -1221367268925297236
+    second: probal-saha-portal-removebg-preview_20
+  - first:
+      213: 5974562442397213236
+    second: probal-saha-portal-removebg-preview_21
+  - first:
+      213: 539335997762505146
+    second: probal-saha-portal-removebg-preview_22
+  - first:
+      213: -1021073090071239582
+    second: probal-saha-portal-removebg-preview_23
+  - first:
+      213: -5944119564507386645
+    second: probal-saha-portal-removebg-preview_24
+  - first:
+      213: -8121013785082174240
+    second: probal-saha-portal-removebg-preview_25
+  - first:
+      213: 3384574045180684734
+    second: probal-saha-portal-removebg-preview_26
+  - first:
+      213: 5475257325636878964
+    second: probal-saha-portal-removebg-preview_27
+  - first:
+      213: -2696199335544475086
+    second: probal-saha-portal-removebg-preview_28
+  - first:
+      213: 1179208182878781569
+    second: probal-saha-portal-removebg-preview_29
+  - first:
+      213: -8221580633358973472
+    second: probal-saha-portal-removebg-preview_30
+  - first:
+      213: 7689819315104989694
+    second: probal-saha-portal-removebg-preview_31
+  - first:
+      213: -3852852972324856073
+    second: probal-saha-portal-removebg-preview_32
+  - first:
+      213: 6559541052470174869
+    second: probal-saha-portal-removebg-preview_33
+  - first:
+      213: -2120132870314413348
+    second: probal-saha-portal-removebg-preview_34
+  - first:
+      213: -467558635315472921
+    second: probal-saha-portal-removebg-preview_35
+  - first:
+      213: -1221916092097561764
+    second: probal-saha-portal-removebg-preview_36
+  - first:
+      213: 7828521102918235059
+    second: probal-saha-portal-removebg-preview_37
+  - first:
+      213: -4774341764959078119
+    second: probal-saha-portal-removebg-preview_38
+  - first:
+      213: -468890623354775550
+    second: probal-saha-portal-removebg-preview_39
+  - first:
+      213: 9060344607004265780
+    second: probal-saha-portal-removebg-preview_40
+  - first:
+      213: 7102561594107699831
+    second: probal-saha-portal-removebg-preview_41
+  - first:
+      213: 8605296478316062397
+    second: probal-saha-portal-removebg-preview_42
+  - first:
+      213: -4930617966105318012
+    second: probal-saha-portal-removebg-preview_43
+  - first:
+      213: 5741230340396147938
+    second: probal-saha-portal-removebg-preview_44
+  - first:
+      213: -2176187715225377502
+    second: probal-saha-portal-removebg-preview_45
+  - first:
+      213: 5168100178580966734
+    second: probal-saha-portal-removebg-preview_46
+  - first:
+      213: 3480617077248960496
+    second: probal-saha-portal-removebg-preview_47
+  - first:
+      213: 6670343412612563081
+    second: probal-saha-portal-removebg-preview_48
+  - first:
+      213: 868023045150670472
+    second: probal-saha-portal-removebg-preview_49
+  - first:
+      213: -5752958619314468186
+    second: probal-saha-portal-removebg-preview_50
+  - first:
+      213: 3785753835969860762
+    second: probal-saha-portal-removebg-preview_51
+  - first:
+      213: -8290766522712756987
+    second: probal-saha-portal-removebg-preview_52
+  - first:
+      213: -680479087012744179
+    second: probal-saha-portal-removebg-preview_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: probal-saha-portal-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159.5
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99cc58ef7599b7e0800000000000000
+      internalID: -1749202603664946790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: probal-saha-portal-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 159.5
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba37ffa77fd1940800000000000000
+      internalID: 5268639246737189711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: probal-saha-portal-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 159.5
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1146745d475123610800000000000000
+      internalID: 1599364409208562705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: probal-saha-portal-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 159.5
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac433760bb7dac0800000000000000
+      internalID: -3830387321678280066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
