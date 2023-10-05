@@ -52322,6 +52322,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 51826251988326578, guid: 754a805dbbe80334e8720311d31e4ad4, type: 3}
+      propertyPath: timerText
+      value: 
+      objectReference: {fileID: 901318787}
+    - target: {fileID: 51826251988326578, guid: 754a805dbbe80334e8720311d31e4ad4, type: 3}
       propertyPath: GameOverCanva
       value: 
       objectReference: {fileID: 856167962}
