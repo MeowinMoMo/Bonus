@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class PlayerMove : MonoBehaviour
 {
@@ -174,9 +175,19 @@ public class PlayerMove : MonoBehaviour
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
         }
+
+         if(collision.gameObject.CompareTag("last"))
+        {
+           GameOverCanva.SetActive(true);
+        }
     }
-    
-    
+    //  public Text timerText;
+    // private bool Finnished = false;
+    // public void Finnish()
+    // {
+    //     Finnished = true;
+    //     timerText.color = Color.yellow;
+    // }
      
 
 
